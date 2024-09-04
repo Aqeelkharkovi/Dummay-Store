@@ -1,1 +1,1 @@
-# Dummay-Store
+# dummay-Store
